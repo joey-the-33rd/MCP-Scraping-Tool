@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# dotenv environment variables file
+.env
+
+# MCP Scraping Tool specific
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Virtual environment folder
+base/
